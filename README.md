@@ -1,2 +1,2 @@
-# 我的简历
-[my resume](http://codingxiaxw.cn/resume/)
+# My Personal Resume
+[Click here!](http://codingxiaxw.cn/resume/)
